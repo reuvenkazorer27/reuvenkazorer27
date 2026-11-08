@@ -51,10 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reuvenkazorer27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuvenkazorer27&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reuvenkazorer27&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=reuvenkazorer27&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
