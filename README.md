@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" width="150" style="border-radius: 50%;" alt="Reuven Kazorer">
+</p>
+
 <h1 align="center">Hey, I'm Reuven Kazorer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
@@ -7,7 +11,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reuven-kazorer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:kazorer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <a href="https://github.com/reuvenkazorer27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
