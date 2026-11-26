@@ -1,0 +1,28 @@
+# Settings for https://github.com/pedrocatalao/github-cool-readme
+user: reuvenkazorer27
+
+show: [about, summary, languages, weekly]
+
+count:
+  private: true    # counted only once a CARDS_TOKEN secret exists; with the built-in token, public work only
+  orgs: true
+
+look:
+  style: classic
+  color: amber
+  animations: true
+
+cards:
+  about:
+    title: About
+    headline: "I build *AI solutions*"
+    lines:
+      - "and lead a team that ships *AI and BI* systems."
+      - "Agents, internal tools, dashboards, and the *demos* that sell them."
+    facts:
+      Building: "Claude Code agents & skills"
+      Shipping: "Power BI on HTML Content"
+      Showing: "Decks, demos, short videos"
+  languages:
+    title: Most used languages
+    count: 6
